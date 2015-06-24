@@ -1,0 +1,40 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It made me focus on only the lines that could be different
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Make sure that I don't loose important information between revisions.
+    Make sure tat other people can actually look at my progress.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    More logical commits. Would maybe be nice to have a .temp save as well,
+    a little bit like in the Office programs - this way I won't loose 
+    everything if I forget to save in a while.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    It's very practical for file types that are usually related. 
+    I would fx love it in Matlab.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    I can use them to get an overview of the commits created or 
+    I can use them to compare two specific files
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    It makes the risk of not being able to find my bug smaller. 
+    Though it is still a quite tedious process - it will probably be quicker
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I basically just want to be sure I know how to use it so I can continue
+    with the Android Beginner Course
