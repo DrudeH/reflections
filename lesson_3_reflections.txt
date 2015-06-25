@@ -3,3 +3,18 @@ work local?
   For the same reasons I am using Dropbox. It offers so many possibilities,
   if you pc breaks down, if you are working from different work stations,
   if you are cooperating with someone on a project, etc. etc.
+
+Why might you want to always pull changes manually rather than having Git 
+automatically stay up-to-date with your remote repository?
+	For the same reason I want to manually create my local commits.
+	I will have to remember to upload, but I will only get the commits
+	that makes logically sense. Furthermore, I might, not want to 
+	upload all branches of a specific repository to GitHub.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+	Forks: 		When copying someone elses repositories in GitHub to my own.
+				Especially useful when I'm usings someones work as basis.
+	Clones:		When I move my own repositories from between my remotes.
+				Especially useful in daily work.
+	Branches:	When I am working inside a repository and want to create 
+				different tracks. Especially useful for larger edits.  
