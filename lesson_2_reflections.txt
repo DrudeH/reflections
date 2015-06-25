@@ -17,3 +17,22 @@ history organized? How would branches help?
 	Basically in any case where I want to have two different versions.
 	Im Matlab or LaTeX this could be when I introduce a new module in
 	my program or when I change the font in my report
+
+How do the diagrams help you visualize the branch structure?
+	By visualizing it. Though it is a little bit confusing if I have one new
+	branch with only one commit and have not made any changes to the master
+	branch. I will probably get better at this.
+
+What is the result of merging two branches together? Why do we represent it 
+in the diagram the way we do?
+	It means that two different lines of code changes can be combined - 
+	in my opinion an awesome thing. Though I am not sure if there could end 
+	up being problems with the way Git merges.
+	EDIT: The explanation came in the next video :=)
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+ manually?
+ 	IT really makes it easier for long files or files that are mostly edited
+ 	in two different areas. For complex editing, it might not work so well.
+ 	One problem is that Git works on each line number, this could end up 
+ 	being annoying if I have deleted a lot of blank spaces.
