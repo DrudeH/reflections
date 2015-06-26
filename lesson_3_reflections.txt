@@ -18,3 +18,25 @@ Describe the differences between forks, clones, and branches. When would you use
 				Especially useful in daily work.
 	Branches:	When I am working inside a repository and want to create 
 				different tracks. Especially useful for larger edits.  
+
+What is the benefit of having a copy of the last known state of the remote 
+stored locally?
+	It makes it possible to merge the local updated commits with any other
+	updates that have been pushed to the remote.
+
+How would you collaborate without using Git or GitHub? What would be easier, 
+and what would be harder?
+	The system is nice, but very "nerdy" - I would only be able to use this
+	when I work on projects with people that have tried it before.
+	I am not sure if the GitHub server system can be used by persons that
+	do not have a deep understanding of Git Bash and command prompts.
+	If so, it might simplify things.
+
+When would you want to make changes in a separate branch rather than directly 
+in master? What benefits does each approach have?
+	I think we have been partly by this point earlier. When sharing a project,
+	it enables you to put up different proposed changes without editing the 
+	master branch. 
+	It is a very tedious affair though. In my first experiences with Git,
+	I don't really think I want to work with other people. Either them or
+	I (or both) will just mess everything up.
